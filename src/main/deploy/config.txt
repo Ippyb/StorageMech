@@ -1,0 +1,5 @@
+motor_id = 0
+ir0_id = 0
+ir1_id = 1
+ir2_id = 2
+ir3_id = 3
